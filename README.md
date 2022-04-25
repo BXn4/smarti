@@ -1,0 +1,2 @@
+# smarti
+A Smarti egy olyan alkalmazás, aminek a segítségével távolról is tudod úgymond irányítani a gépedet Discordon keresztül. Az alkalmazás célja az automatizálás. Szóval ha te este azt szeretnéd, hogy a program elindítson egy játékot, akkor csak megadod neki, hogy mikor induljon el a játék, akkor majd automatikusan elindul. Ha távol vagy, akkor a Discordon keresztül megadod, hogy melyik folyamatot futtassa le. Az alkalmazás generál egy kulcsot, aminek a segítségével kell összekötni a botot. Még fejlesztés alatt!!
